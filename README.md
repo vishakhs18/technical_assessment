@@ -17,7 +17,7 @@ This repository contains a Scala application called "Shopping Basket"
 
   This command will compile the program
 - Next, execute the following command:
-  scala PriceBasket <item1> <item2> <item3> ... <itemn>
+  scala PriceBasket item1 item2 item3 ... itemn
 <img width="702" alt="Screenshot 2023-10-20 at 4 18 42 PM" src="https://github.com/vishakhs18/technical_assessment/assets/96525131/1c128cd2-1277-43d9-9ff4-c52e6bb2e95d">
 
   This command will execute the compile the executed binary and provide the required output to the console
