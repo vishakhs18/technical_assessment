@@ -2,10 +2,10 @@
 This repository contains a Scala application called "Shopping Basket"
 
 # Prerequisites (These needs to be installed in your machine before running the program)
-- Java 8
+- Java 8:
   Java can be installed from the following link:
   https://www.oracle.com/java/technologies/javase-jdk8-downloads.html
-- sbt
+- sbt:
   The following link can be used to install sbt:
   https://www.scala-sbt.org/download.html
 
